@@ -41,7 +41,6 @@ Company Name — мультиплатформенная технология, о
 
 ### University of Oklahoma, BA Information Technology 2011 -- 2014
 
-  - GPA 4.0
   - DB1101 - Basic SQL
   - CS2011 - Java Introduction
 
