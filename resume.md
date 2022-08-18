@@ -1,4 +1,3 @@
-<!-- The (first) h1 will be used as the <title> of the HTML page -->
 # Иван Иванов
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
